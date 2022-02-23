@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "8e56ba784ba977535a642b72ba332584",
+  "assets/AssetManifest.json": "f6728ecbdf348554674e066db7c28497",
 "assets/assets/avatar.jpg": "94387dcf4a39510fd8dbda571a5205b6",
 "assets/assets/blog.png": "1269539dc4954cd7f8a8f75b2de5ac8c",
 "assets/assets/computervisionn.jpg": "e84692154bd077a65b0b951d595231c8",
@@ -19,12 +19,14 @@ const RESOURCES = {
 "assets/assets/works/arpaint.png": "fa407caa93144c0e79cbb11ca17315d4",
 "assets/assets/works/asha.jpg": "df6d84677e8bf157307175895e709545",
 "assets/assets/works/badgemagic.png": "1068aac879d03cfb8ad0026513d08ffe",
-"assets/assets/works/cctv.jpeg": "de11e7687662f53e16ada84f7def5a38",
+"assets/assets/works/bmi.jpg": "5b673df6d7544fbf1fbd87c389693699",
+"assets/assets/works/cctv.jpeg": "97884f745d6d8fb30bad560bdaeb22f2",
 "assets/assets/works/cms.png": "60fae13591d3805db2fcebd44088c203",
 "assets/assets/works/commonsapp.png": "f8d98254690e21cb7abf58b610dd3ff6",
 "assets/assets/works/computer-vision.jpg": "fc2ca7439f64bd773391df43792c6546",
 "assets/assets/works/computervision.jpg": "e84692154bd077a65b0b951d595231c8",
 "assets/assets/works/covid.jpg": "cc9625a5cdbe14b0b74d42eed54945cc",
+"assets/assets/works/destini.png": "39fc601eb3b29434e760fe8cdf0f2ed1",
 "assets/assets/works/dexify.png": "363dc735100f6160160919db2cc26879",
 "assets/assets/works/emotion.png": "8ae362cdf0050fd04a69b2ca5a967fc0",
 "assets/assets/works/gitgo.png": "32f702f4a59a35a862bea0fd92abda1b",
@@ -35,10 +37,12 @@ const RESOURCES = {
 "assets/assets/works/kitn.png": "8d8c9a80ef13dca17e40c155035810eb",
 "assets/assets/works/kiwix.png": "286e0afb2cfc047115f2293d9c1efba4",
 "assets/assets/works/lorax.png": "5285884a09bc02e8a01e6639edebdff7",
+"assets/assets/works/magic.jpg": "5eec0242e2567d61314c3f919adc62a7",
 "assets/assets/works/mentored.png": "d5fdc246e873b44dce2905d9fcb37f0b",
 "assets/assets/works/mifos.png": "7f85d2e0715ff102b75319947a36c2d5",
 "assets/assets/works/navft.jpeg": "61b4627186b3cc2ed686e1e5eade8af9",
 "assets/assets/works/phimpme.png": "766dff8e142e26f4e67eda3fbf1d2fb8",
+"assets/assets/works/quizzler.png": "97884f745d6d8fb30bad560bdaeb22f2",
 "assets/assets/works/ss.png": "00c0d0c66c950fe7cd389f1d23a8745f",
 "assets/assets/works/templeapp.png": "feb56ae7e6f70143983d0c8f818ac3a0",
 "assets/assets/works/tweegenous.png": "587e54ba3904dee07a0455c458c26123",
@@ -48,7 +52,7 @@ const RESOURCES = {
 "assets/NOTICES": "bb4b2cb6a495f358812647cb95f44b5f",
 "index.html": "ae530b67010b7fc792160288ae8e7ca7",
 "/": "ae530b67010b7fc792160288ae8e7ca7",
-"main.dart.js": "bc94a8510d38a15354f2a0155c378e44",
+"main.dart.js": "97a8b2b8a8d48342e1aa37bb9fa5da22",
 "version.json": "b6474d93f209eda683cbb3c4e65f581b"
 };
 
