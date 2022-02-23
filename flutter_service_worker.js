@@ -52,7 +52,7 @@ const RESOURCES = {
 "assets/NOTICES": "bb4b2cb6a495f358812647cb95f44b5f",
 "index.html": "ae530b67010b7fc792160288ae8e7ca7",
 "/": "ae530b67010b7fc792160288ae8e7ca7",
-"main.dart.js": "97a8b2b8a8d48342e1aa37bb9fa5da22",
+"main.dart.js": "f9bcb5f30d4bd1fd07603caa2fa875b2",
 "version.json": "b6474d93f209eda683cbb3c4e65f581b"
 };
 
